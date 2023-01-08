@@ -15,8 +15,7 @@ import seaborn as sns
 car_predict=pd.read_csv('Cars.csv') 
 car_predict uhbubu
 
-
-# In[16]:
+pracice# In[16]:
 
 
 car_predict.dtypes

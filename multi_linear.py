@@ -12,8 +12,8 @@ import seaborn as sns
 # In[15]:
 
 
-car_predict=pd.read_csv('Cars.csv')
-car_predict
+car_predict=pd.read_csv('Cars.csv') 
+car_predict uhbubu
 
 
 # In[16]:
